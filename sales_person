@@ -1,7 +1,7 @@
 USE [AdventureWorks2017]
 GO
 
-/****** Object:  View [Sales].[vSalesPerson]    Script Date: 9/8/2019 3:43:49 AM ******/
+/****** Object:  View [Sales].[vSalesPerson]   Script Date: 9/8/2019 3:43:49 AM ******/
 SET ANSI_NULLS ON
 GO
 
