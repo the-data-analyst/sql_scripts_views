@@ -1,2 +1,2 @@
 # sql_scripts_views
-Sample sql server scripts showcasing stored procedures using the AdventureWorks database
+Sample sql server views showcasing stored procedures using the AdventureWorks database
