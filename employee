@@ -1,13 +1,9 @@
+View created of employees
+
 USE [AdventureWorks2017]
 GO
 
 /****** Object:  View [HumanResources].[vEmployee]    Script Date: 9/8/2019 6:30:41 PM ******/
-SET ANSI_NULLS ON
-GO
-
-SET QUOTED_IDENTIFIER ON
-GO
-
 
 CREATE OR ALTER VIEW [HumanResources].[vEmployee] 
 AS 
